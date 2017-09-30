@@ -15,7 +15,7 @@ body {
 }
 
 header.masthead {
-    background: url('https://unsplash.it/1900/1080?image=304') no-repeat center center scroll;
+    background: url('https://images.unsplash.com/photo-1497414146483-5bcafdccfdff?dpr=1&auto=compress,format&fit=crop&w=2550&h=&q=80&cs=tinysrgb&crop=') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
