@@ -6,6 +6,8 @@
 
 body {
     padding-top: 54px;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 @media (min-width: 992px) {
@@ -25,7 +27,7 @@ header.masthead {
 header.masthead > .overlay {
     padding: 5rem 0;
     text-align: center;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 @media (min-width: 992px) {
