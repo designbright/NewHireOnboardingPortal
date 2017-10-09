@@ -28,7 +28,7 @@ The overall feedback from new hires was positive. They appreciated having all th
 ## The Final Product
 Below are screenshots of the prototype that I created using Bootstrap. I chose to use Bootstrap because it was a new skill that I was learning while I was attending a code academy. Bootstrap also gives you a great code base to start from  especially for a large site like an Onboarding Portal.
 
-[See the original designs here](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
+[Want to see the original design? Check it out here](https://github.com/designbright/NewHireOnboardingPortal/tree/master/originalWebDesignImages)
 
 ## Future State and The Roadmap
 I hope to eventually re-design the Dashboard and make it more customized. I would love to create a portal that integrates with other departments like Payroll, Benefits, Talent Acquisition, etc. It would be a one-stop-shop for everything a new hire needs.
