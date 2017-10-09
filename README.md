@@ -19,7 +19,9 @@ Understanding the big picture was crucial to designing an outstanding team onboa
 I started whiteboarding my ideas and sharing my designs with peers. Once all versions were approved by the project manager, I started creating a test site on the company intranet to explore all of the possible features and functionality.
 
 **Check out the Balsamiq mockups here**
-https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png
+
+http://github.com - automatic!
+[Mockups](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
 
 ### Gather Feedback
 The real test was to actually use the newly created site to train a new hire. The new hires would provide our project team with feedback on topics such as user experience, information architecture, and most importantly, the impact the site had on their ramp-up time to productivity. The overall feedback from new hires was positive. They appreciated having all the information they needed to know in one place. They also liked the breakdown of information in terms of WHAT they needed to know and WHEN.
