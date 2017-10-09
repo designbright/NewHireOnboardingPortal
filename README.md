@@ -21,6 +21,12 @@ I started whiteboarding my ideas and sharing my designs with peers. Once all ver
 ### Gather Feedback
 The real test was to actually use the newly created site to train a new hire. The new hires would provide our project team with feedback on topics such as user experience, information architecture, and most importantly, the impact the site had on their ramp-up time to productivity. The overall feedback from new hires was positive. They appreciated having all the information they needed to know in one place. They also liked the breakdown of information in terms of WHAT they needed to know and WHEN.
 
+## The Final Product
+Below are screenshots of the prototype that I created using Bootstrap. I chose to use Bootstrap because it was a new skill that I was learning while I was attending a code academy. Bootstrap also gives you a great code base to start from  especially for a large site like an Onboarding Portal.
+
+## The Roadmap
+I hope to eventually re-design the Dashboard and make it more customized. I would love to create a portal that integrates with other departments like Payroll, Benefits, Talent Acquisition, etc. It would be a one-stop-shop for everything a new hire needs.
+
 
 
 ![Image Test](https://github.com/designbright/NewHireOnboardingPortal/blob/master/ScreenShots/homepageScreenShot.png)
