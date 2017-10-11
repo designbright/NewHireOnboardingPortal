@@ -18,6 +18,9 @@ Understanding the big picture was crucial to designing an outstanding team onboa
 ### Wireframes and Mockups
 I started whiteboarding my ideas and sharing my designs with peers. Once all versions were approved by the project manager, I began creating a test site on the company intranet to explore all of the possible features and functionality.
 
+![Image Test](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
+
+
 [Check out the Balsamiq mockups here](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
 
 ### Gather Feedback
