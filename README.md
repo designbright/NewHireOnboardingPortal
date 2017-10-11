@@ -20,9 +20,6 @@ I started whiteboarding my ideas and sharing my designs with peers. Once all ver
 
 ![Image Test](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
 
-
-[Check out the Balsamiq mockups here](https://github.com/designbright/NewHireOnboardingPortal/blob/master/mockups/New%20Mockup%201.png)
-
 ### Gather Feedback
 The real test was to actually use the newly created site to train a new hire. The new hires would provide our project team with feedback on topics such as user experience, information architecture, and most importantly, the impact the site had on their ramp-up time to productivity. 
 
